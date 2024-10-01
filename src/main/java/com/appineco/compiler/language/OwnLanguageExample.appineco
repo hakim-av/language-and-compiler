@@ -1,0 +1,5 @@
+var x
+read x
+if x
+    print x
+end
